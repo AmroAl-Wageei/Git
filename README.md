@@ -1,7 +1,8 @@
 # Git
 
 ## Note
-#### 1- Pull
-#### 1- Push
+> Shaima 
+##### 1- Pull
+##### 2- Push
 
 Git &amp; GitHub
